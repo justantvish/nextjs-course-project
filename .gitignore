@@ -31,6 +31,8 @@ node_modules
 .next
 .next/*
 
+package-lock.json
+
 #bower_components
 .sass-cache
 #Gemfile*
