@@ -27,6 +27,10 @@ wp-config.php
 wp-content/themes/johnslots_2017/style.css.map
 
 node_modules
+
+.next
+.next/*
+
 #bower_components
 .sass-cache
 #Gemfile*
